@@ -1,0 +1,24 @@
+Round 1 Mine location and approval to break ground
+:A: (+$4M) Pay off the local government to grant mine operation immediately.
+:B: (+$3M) Take 6 months to campaign and convince the majority of locals to vote yes on allowing the mine.
+:C: (+$1M) Take 6 months to find and acquire a newer, costlier, location without a surrounding population
+
+Round 2 Necessary deforestation to begin mining
+:A: (+$4M) You slash and burn the mining area, selling off the logged trunks for profit
+:B: (+$3M) You slash and burn the mining area, donating all the logged wood to surrounding municipalities and villages
+:C: (+$1M) You slash and burn the mining area, donating all the logged wood to surrounding municipalities and villages and reforesting/ rewilding a nearby area with the same acreage of vegetation you deforested.
+
+Round 3 Choosing the type of tailing dam and construction
+:A: (+$4M) Although it is not as structurally sound you build an upstream tailings dam because it is cheaper and faster to construct.
+:B: (+$3M) You choose to build a downstream tailings dam which is not recommended for this area but is earthquake safe.
+:C: (+$1M) You choose to construct a centerline tailings dam. It costs more to engineer but is earthquake safe and the recommended dam for this area.
+
+Round 4 Safety Regulations and Training
+:A: (+$4M) You cut corners on safety regulations and training in favor of larger profits.
+:B: (+$3M) You only do the mandated bare minimum to meet safety regulations and training protocols.
+:C: (+$1M) You spend extra money to hire a mining safety consultant and outfit your operation with the latest safeguards and training.
+
+Round 5 Reclamation
+:A: (+$4M) You choose not to undergo reclamation of the mining site and dam in favor of larger profits.
+:B: (+$3M) You choose to reclaim the mining site and dam, but only to visual beauty standards.
+:C: (+$1M) You choose to bring in reclamation experts, creating a highly engineered reclamation that continues to be monitored and improved upon for years.
