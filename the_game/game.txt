@@ -1,3 +1,4 @@
+5
 Round 1 Mine location and approval to break ground
 :A: (+$4M) Pay off the local government to grant mine operation immediately.
 :B: (+$3M) Take 6 months to campaign and convince the majority of locals to vote yes on allowing the mine.
@@ -22,3 +23,4 @@ Round 5 Reclamation
 :A: (+$4M) You choose not to undergo reclamation of the mining site and dam in favor of larger profits.
 :B: (+$3M) You choose to reclaim the mining site and dam, but only to visual beauty standards.
 :C: (+$1M) You choose to bring in reclamation experts, creating a highly engineered reclamation that continues to be monitored and improved upon for years.
+
