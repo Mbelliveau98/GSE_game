@@ -1,4 +1,4 @@
-# from quiz_game import Quiz_Game
+from quiz_game import Quiz_Game
 
 def load_questions(filename):
     rounds = []
@@ -17,13 +17,9 @@ def game_loop():
     FILENAME = 'game.txt'
     questions = load_questions(FILENAME)
     game = Quiz_Game(questions)
-    while Game.complete == False:
-        Game.ask_question()
-    Game.display_final_score()
+    while game.complete == False:
+        game.ask_question()
+    game.display_final_score()
 
 if __name__ == '__main__':
-    rounds = load_questions('game.txt')
-    for r in rounds:
-        print('------------------------')
-        for question in r:
-            print(question)
+    game_loop()
